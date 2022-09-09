@@ -13,7 +13,9 @@ Now input the following commands to create a Git folder and clone the repostory 
 ## Gitlab Desktop for Syncing
 https://desktop.github.com/
 
-Once installed launch the application and open the already cloned repository via: 'File / Add local repository / Choose...' select the repository folder and click 'Add Repository'. 
+Once installed launch the application and open the already cloned repository via: 'File / Add local repository / Choose...' select the repository folder and click 'Add Repository'. Changes within the repository folders should be shown in the application and can be easily synced via the 'Commit' button. A brief summary text so people know what happened in a commit is recommended but not necessary.
+
+After Commiting the changes need to be pushed with the appropriate button in the application, this actually saves your changes on the remote Gitlab server and makes those changes available to everyone.
 
 
 # Iron-Hideout-Competition Repository Content
